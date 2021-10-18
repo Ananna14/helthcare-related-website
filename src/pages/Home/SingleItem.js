@@ -12,6 +12,7 @@ const SingleItem = ({user}) => {
         <Card.Body>
           <Card.Text> {name}</Card.Text>
           <Card.Text> {description}</Card.Text>
+    
         </Card.Body>
       </Card>
       </Col>

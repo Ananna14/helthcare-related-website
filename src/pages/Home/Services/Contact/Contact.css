@@ -8,6 +8,8 @@ height: 25px;
 margin: 10px;
 justify-content: center;
 text-align: center;
+
+/* margin: 0px; */
 }
 .color{
     background-color: tomato;
@@ -15,4 +17,5 @@ text-align: center;
     padding: 10px;
    width: 90px;
    border-radius: 20px;
+   margin-bottom: 400px;
 }

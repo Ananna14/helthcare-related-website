@@ -1,0 +1,16 @@
+/* .column{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    color: white;
+    background-color: rgba(0, 0, 0, 0.822);
+   
+} */
+.footer{
+    text-align: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    /* margin-top: 200px; */
+    padding: 50px;
+    margin: 0px;
+}
