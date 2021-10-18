@@ -2,7 +2,22 @@
     margin: 10px;
     color: black;
     text-decoration: none;
+  
 }
 .heading:hover{
     color: red;
+}
+.background{
+    background-color: lightgrey;
+    margin: 0px;
+    padding: 20px;
+}
+.log{
+    margin-left: 700px;
+    /* margin: 10px; */
+    color: black;
+    text-decoration: none;
+}
+.log:hover{
+    color:red;
 }

@@ -8,6 +8,7 @@ import Contact from './pages/Home/Services/Contact/Contact';
 import Header from './Nav/Header';
 import NotFound from './pages/Home/Services/NotFound/NotFound';
 import Footer from './pages/Home/Services/NotFound/Footer/Footer';
+import LogIn from './LogIn/LogIn';
 
 function App() {
   return (
@@ -30,6 +31,9 @@ function App() {
         </Route>
         <Route path="/contact">
           <Contact></Contact>
+        </Route>
+        <Route path="/login">
+          <LogIn></LogIn>
         </Route>
         <Route path="*">
           <NotFound></NotFound>

@@ -5,6 +5,13 @@ width:210px;
     background-color: gray;
     border: 1px solid lightgreen;
     margin: 20px;
-    padding:5px;
+    padding:20px;
     color:white;
+}
+.btn-color{
+    background-color: tomato;
+    border: none;
+    padding: 10px;
+   width: 90px;
+   border-radius: 20px;
 }
