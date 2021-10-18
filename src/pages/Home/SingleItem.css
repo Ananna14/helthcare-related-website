@@ -1,0 +1,10 @@
+.single-items img{
+width:210px;
+}
+.single-items{
+    background-color: gray;
+    border: 1px solid lightgreen;
+    margin: 20px;
+    padding:5px;
+    color:white;
+}

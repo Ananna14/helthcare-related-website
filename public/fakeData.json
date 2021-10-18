@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Dental Implants",
+      "description": "Dental implants replace the missing tooth by implanting artificial roots into the jaw under surgical …",
+      "img": "https://i.ibb.co/3yQyHwp/service-3.jpg"
+    },
+    {
+      "name": "Cosmetic Dentistry",
+      "description": "Cosmetic dentistry mainly concerns improving the appearance of your teeth, including whitening & …",
+      "img": "https://i.ibb.co/4Ry79BS/service-1.jpg"
+    },
+    {
+      "name": "Pediatric Dentistry",
+      "description": "Pediatric dentistry is tailored to ensure infants, children, and teens can receive the best dental care …",
+      "img": "https://i.ibb.co/9yKdXDK/service-2.jpg"
+    },
+    {
+      "name": "Dental Bridge",
+      "description": "A dental bridge means that your dentist uses existing natural teeth on both sides of your missing tooth to hold your bridge firmly.",
+      "img": "https://i.ibb.co/nLLDbxN/service-4.jpg"
+    },
+    {
+      "name": "Dental Implant",
+      "description": "An implant looks and acts like a natural tooth. It fits securely even when you chew and speak, so your jaw is projected.",
+      "img": "https://i.ibb.co/M9BQPm2/service-5.jpg"
+    },
+    {
+      "name": "Dental Crowns",
+      "description": "The crown restores the tooth to its normal shape, size & function. A crown makes the tooth stronger or improve the looks.",
+      "img": "https://i.ibb.co/C8f5q0F/service-6.jpg"
+    }
+  ]
