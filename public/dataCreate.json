@@ -1,0 +1,50 @@
+[
+    {
+      "name": "Tooth Erosion",
+      "img": "https://i.ibb.co/2gJv2nQ/pic-1.jpg",
+      "description": "Tooth erosion is the loss of tooth structure and is caused by acid attacking the enamel. Tooth erosion signs and symptoms can range from sensitivity to more severe problems such as cracking.",
+      "Overview": "Tooth erosion is the loss of tooth structure and is caused by acid attacking the enamel. Tooth erosion signs and symptoms can range from sensitivity to more severe problems such as cracking. Tooth erosion is more common than people might think, but it can also be easily prevented."
+    },
+    {
+      "name": "Oral Cancer",
+      "img": "https://i.ibb.co/HHcr3gk/pic-2.jpg",
+      "description": "Oral cancer is a serious and deadly disease that affects millions of people. The Oral Cancer Foundation estimates that someone in the United States dies every hour from oral cancer, but....",
+      "Overview": "The biggest risk factors are tobacco and alcohol use, including chewing tobacco. HPV—a sexually transmitted wart virus—also increases the risk.6﻿The symptoms of mouth or throat cancer include sores, lumps, or rough areas in the mouth. You may also have a change in your bite and difficulty chewing or moving your tongue or jaw. Regular dental visits can help catch oral cancer early. You may ask your dentist whether an oral cancer exam is part of their usual checkup."
+    },
+    {
+      "name": "Tooth Decay",
+      "img": "https://i.ibb.co/LPVjfsn/pic-3.jpg",
+      "description": "Tooth decay, also known as cavities, is the second only to the common cold as the most prevalent disease in the United States.",
+      "Overview": "Tooth decay, also known as cavities, is the second only to the common cold as the most prevalent disease in the United States.2﻿ Tooth decay occurs when plaque, the sticky substance that forms on teeth, combines with the sugars and/or starches of the food you eat. This combination produces acids that attack tooth enamel.You can get cavities at any age—they aren't just for children. As you age, you can develop cavities as your tooth enamel erodes. Dry mouth due to age or medications can also lead to cavities."
+    },
+    {
+        "name": "Dental Implants",
+        "description": "Dental implants replace the missing tooth by implanting artificial roots into the jaw under surgical …",
+        "img": "https://i.ibb.co/3yQyHwp/service-3.jpg",
+        "Overview": "Dental implant surgery is a procedure that replaces tooth roots with metal, screwlike posts and replaces damaged or missing teeth with artificial teeth that look and function much like real ones. Dental implant surgery can offer a welcome alternative to dentures or bridgework that doesn't fit well and can offer an option when a lack of natural teeth roots don't allow building denture or bridgework tooth replacements.How dental implant surgery is performed depends on the type of implant and the condition of your jawbone. Dental implant surgery may involve several procedures. The major benefit of implants is solid support for your new teeth — a process that requires the bone to heal tightly around the implant. Because this bone healing requires time, the process can take many months."
+      },
+      {
+        "name": "Cosmetic Dentistry",
+        "description": "Cosmetic dentistry mainly concerns improving the appearance of your teeth, including whitening & …",
+        "img": "https://i.ibb.co/4Ry79BS/service-1.jpg",
+        "Overview": "If you’re not satisfied with your smile, modern cosmetic dentistry can help. This method of professional oral care focuses on improving the appearance of your mouth, teeth, gums, and overall smile. Common procedures include teeth whitening, veneers, fillings, and implants.Cosmetic dentistry is becoming more and more popular, with the industry as a whole projected to reach $32 billion by 2026. Although it’s not an essential procedure, cosmetic treatment can restore confidence in your smile."
+      },
+      {
+        "name": "Pediatric Dentistry",
+        "description": "Pediatric dentistry is tailored to ensure infants, children, and teens can receive the best dental care …",
+        "img": "https://i.ibb.co/9yKdXDK/service-2.jpg",
+        "Overview": "Pediatric dentists are dedicated to the oral health of children from infancy through the teen years. They have the experience and qualifications to care for a child’s teeth, gums, and mouth throughout the various stages of childhood."
+      },
+      {
+        "name": "Dental Bridge",
+        "description": "A dental bridge means that your dentist uses existing natural teeth on both sides of your missing tooth to hold your bridge firmly.",
+        "img": "https://i.ibb.co/nLLDbxN/service-4.jpg",
+        "Overview": "Dental bridges literally bridge the gap created by one or more missing teeth.A bridge is made up of two or more crowns for the teeth on either side of the gap -- these two or more anchoring teeth are called abutment teeth -- and a false tooth/teeth in between. These false teeth are called pontics and can be made from gold, alloys, porcelain, or a combination of these materials. Dental bridges are supported by natural teeth or implants."
+      },
+      {
+        "name": "Dental Implant",
+        "description": "An implant looks and acts like a natural tooth. It fits securely even when you chew and speak, so your jaw is projected.",
+        "img": "https://i.ibb.co/M9BQPm2/service-5.jpg",
+        "Overview": "Dental implant surgery is a procedure that replaces tooth roots with metal, screwlike posts and replaces damaged or missing teeth with artificial teeth that look and function much like real ones. Dental implant surgery can offer a welcome alternative to dentures or bridgework that doesn't fit well and can offer an option when a lack of natural teeth roots don't allow building denture or bridgework tooth replacements."
+      }
+  ]
