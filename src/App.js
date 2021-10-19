@@ -11,11 +11,16 @@ import Footer from './pages/Home/Services/NotFound/Footer/Footer';
 import LogIn from './LogIn/LogIn';
 import Banner from './Banner/Banner';
 import Register from './LogIn/Register/Register';
+import Details from './Details/Details';
+import AuthProvider from './Context/AuthProvider';
+import PrivateRoute from './PrivateRoute/PrivateRoute';
+// import PrivateRoute from './PrivateRoute/PrivateRoute';
 
 function App() {
   return (
     <div className="App">
       
+      <AuthProvider>
       <Router>
       <Header></Header>
       <Banner></Banner>
@@ -41,15 +46,16 @@ function App() {
         <Route path="/register">
           <Register></Register>
         </Route>
-        <Route path="/details/:">
-          <Register></Register>
-        </Route>
+        <PrivateRoute path="/details/:userOverview">
+          <Details></Details>
+        </PrivateRoute>
         <Route path="*">
           <NotFound></NotFound>
         </Route>
         </Switch>
         <Footer></Footer>
       </Router>
+      </AuthProvider>
     </div>
   );
 }

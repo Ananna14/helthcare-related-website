@@ -1,10 +1,23 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
-import useFirebase from '../UseFirebase/UseFirebase'
+import { Link, useLocation, useHistory } from 'react-router-dom'
+import useAuth from '../Hooks/useAuth'
+// import useFirebase from '../UseFirebase/UseFirebase'
 import './LogIn.css'
 
 const LogIn = () => {
-    const{user, signInUsingGoogle} = useFirebase()
+    const{signInUsingGoogle} = useAuth();
+    
+    const location = useLocation();
+const history= useHistory();
+const redirect_uri = location.state?.from || '/home';
+
+
+    const handelGoogleLogin=()=>{
+signInUsingGoogle()
+.then(result=>{
+history.push(redirect_uri)
+})
+    }
     return (
         <div>
            <div className="half-width">
@@ -16,7 +29,7 @@ const LogIn = () => {
            </div>
             <br/>
             <div>---------------or-----------------</div>
-            <button className="color" onClick={signInUsingGoogle}>Google Sign In</button>
+            <button className="color" onClick={handelGoogleLogin}>Google Sign In</button>
         </div>
     )
 }

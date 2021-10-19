@@ -1,0 +1,11 @@
+.overView{
+    background-color: grey;
+    border-radius: 5px;
+    border: 1px solid lightgreen;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    display: grid;
+    justify-content: center;
+    text-align: center;
+}
