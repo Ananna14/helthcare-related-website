@@ -1,0 +1,8 @@
+.banner{
+   background: url('https://i.ibb.co/GcZLZkZ/banner-1.png');
+background-position: 50%;
+background-size: cover;
+width: 100%;
+background-repeat: no-repeat;
+min-height: 60vh;
+}

@@ -3,7 +3,7 @@ import { Card, Col } from 'react-bootstrap'
 import './SingleItem.css'
 
 const SingleItem = ({user}) => {
-    const {name, img, description, Overview} = user
+    const {name, img, description} = user
     return (
         <div className="single-items">
             <Col>
@@ -12,8 +12,8 @@ const SingleItem = ({user}) => {
         <Card.Body>
           <Card.Text> {name}</Card.Text>
           <Card.Text> {description}</Card.Text>
-    {/* <button >Details</button> */}
-    <a className="btn-color" href="{Overview}">Details</a>
+    <button className="btn-color">Details</button>
+    {/* <a className="btn-color" href="{Overview}">Details</a> */}
         </Card.Body>
       </Card>
       </Col>

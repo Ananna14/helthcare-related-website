@@ -9,6 +9,8 @@ import Header from './Nav/Header';
 import NotFound from './pages/Home/Services/NotFound/NotFound';
 import Footer from './pages/Home/Services/NotFound/Footer/Footer';
 import LogIn from './LogIn/LogIn';
+import Banner from './Banner/Banner';
+import Register from './LogIn/Register/Register';
 
 function App() {
   return (
@@ -16,6 +18,7 @@ function App() {
       
       <Router>
       <Header></Header>
+      <Banner></Banner>
         <Switch>
           <Route exact path="/">
             <Home></Home>
@@ -34,6 +37,12 @@ function App() {
         </Route>
         <Route path="/login">
           <LogIn></LogIn>
+        </Route>
+        <Route path="/register">
+          <Register></Register>
+        </Route>
+        <Route path="/details/:">
+          <Register></Register>
         </Route>
         <Route path="*">
           <NotFound></NotFound>
